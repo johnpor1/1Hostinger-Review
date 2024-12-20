@@ -1,0 +1,13 @@
+{
+      "name": "review-page",
+      "version": "1.0.0",
+      "description": "Review page with CSS and JS",
+      "scripts": {
+        "dev": "vite",
+        "build": "vite build",
+        "preview": "vite preview"
+      },
+      "devDependencies": {
+        "vite": "^4.5.2"
+      }
+    }
